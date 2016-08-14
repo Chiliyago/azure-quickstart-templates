@@ -14,3 +14,7 @@ You can set common Minecraft server properties as parameters at deployment time.
 The following Minecraft server configuration parameters can be set at deployment time: Minecraft user name, difficulty, level-name, gamemode, white-list, enable-command-block, spawn-monsters, generate-structures, level-seed.
 
 For more information on how to use this template, refer to <a href="https://msftstack.wordpress.com/2015/09/05/creating-a-minecraft-server-using-an-azure-resource-manager-template/">Creating a Minecraft server using an Azure Resource Manager template</a>.
+
+* * *
+## Tim Odell Enhancements
+* 8/11/2016 : Wrapped templates in Visual Studio Solution
